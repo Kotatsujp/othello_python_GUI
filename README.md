@@ -1,2 +1,2 @@
 # othello_python_GUI
-AIはコピペです．
+AIはNyanNyanさん(https://github.com/Nyanyan)から頂きました（コピペ）。
